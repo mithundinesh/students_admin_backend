@@ -1,7 +1,7 @@
 {
-  "Post": {
+  "Student": {
     "_": { "items": 20 },
-    "title": { "string": {} },
+    "name": { "string": {} },
     "comments": { "hasMany": "Comment" }
   },
   "Comment": {
